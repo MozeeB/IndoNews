@@ -31,6 +31,9 @@ val dataModule = module {
     single { ArticleMapper() }
     //
     viewModel { HomeVM(get()) }
+    
+    
+   // FIJIWE
 
 }
 
