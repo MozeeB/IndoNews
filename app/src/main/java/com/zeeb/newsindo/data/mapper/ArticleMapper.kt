@@ -38,6 +38,8 @@ open class ArticleMapper : BaseMapper<ArticleModel, Article> {
             web_url = domain.url,
             lead_paragraph = domain.content,
             multimedia = lismultimedia
+            
+            //fdgfdyh
 
         )
     }
