@@ -1,5 +1,5 @@
 package com.zeeb.newsindo.data.model
-
+//pullen jib
 data class ArticleModel(
     val headline: HeadlineModel,
     val snippet: String,
