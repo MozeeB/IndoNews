@@ -1,5 +1,5 @@
 package com.zeeb.newsindo.domain
-
+// pullen jib project e
 data class Article(
     val title: String,
     val snippet: String,
